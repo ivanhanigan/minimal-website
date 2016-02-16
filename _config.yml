@@ -1,4 +1,4 @@
 name: minimal-website
 baseurl: /minimal-website
-highlighter:      rouge
+highlighter:      pygments
 
